@@ -1,0 +1,6 @@
+[submodule "EuroPanelMaker"]
+	path = hardware/openscad/EuroPanelMaker/
+	url = git@github.com:benjiaomodular/EuroPanelMaker.git
+[submodule "hardware/openscad/EuroPanelMaker"]
+	path = hardware/openscad/EuroPanelMaker
+	url = git@github.com:benjiaomodular/EuroPanelMaker.git
