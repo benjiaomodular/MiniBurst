@@ -466,7 +466,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "svg",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -644,6 +644,10 @@
     [
       "29e33193-9d22-4697-8a87-f62bab5fdea4",
       "Root"
+    ],
+    [
+      "9ecab8ce-9b60-41af-97bb-319cc023e3d4",
+      "Power"
     ]
   ],
   "text_variables": {}

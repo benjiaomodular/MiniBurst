@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MiniBurst")(type "KiCad")(uri "/projects/benjiaomodular/MiniBurst/hardware/kicad/MiniBurst.pretty")(options "")(descr ""))
+)
