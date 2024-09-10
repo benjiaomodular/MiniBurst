@@ -51,8 +51,30 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        "text_thickness|152424000|86800000|6eb4b810-0404-41bf-8a4b-52e59eb00df6|00000000-0000-0000-0000-000000000000",
+        "via_dangling|103924000|127900000|b6b1fe58-8470-48e5-b148-91dac46a5420|00000000-0000-0000-0000-000000000000",
+        "via_dangling|103924000|132700000|f92a76d3-98e7-4c9f-ad8a-b7d5608d71ed|00000000-0000-0000-0000-000000000000",
+        "via_dangling|106924000|73000000|c50a87d1-31b8-40fa-899d-3ffd993b7589|00000000-0000-0000-0000-000000000000",
+        "via_dangling|109924000|127900000|7419e8d5-2fae-482c-af7e-416fc61653dc|00000000-0000-0000-0000-000000000000",
+        "via_dangling|109924000|132700000|67afbe82-9e5a-4327-8373-dc0d30193647|00000000-0000-0000-0000-000000000000",
+        "via_dangling|94924000|101000000|2c882d8b-28b3-429e-a60c-9de3e6b99c02|00000000-0000-0000-0000-000000000000",
+        "via_dangling|94924000|106000000|4a7078f4-2cd9-47c0-bc06-e523097b1d7c|00000000-0000-0000-0000-000000000000",
+        "via_dangling|94924000|111000000|5e245ec6-70a9-493e-ad2c-8092989c8cdf|00000000-0000-0000-0000-000000000000",
+        "via_dangling|94924000|76000000|ed300065-b654-43b6-94d4-b43e42993b72|00000000-0000-0000-0000-000000000000",
+        "via_dangling|94924000|81000000|b6762f0e-78a8-45fd-a2cd-9dceb3df64cb|00000000-0000-0000-0000-000000000000",
+        "via_dangling|94924000|86000000|e888379f-0c9d-451c-aeda-502c915392b4|00000000-0000-0000-0000-000000000000",
+        "via_dangling|94924000|91000000|8cc5244c-114b-4fbb-930e-170cff2f289c|00000000-0000-0000-0000-000000000000",
+        "via_dangling|94924000|96000000|eb62624e-b137-4733-9040-53a419f761a9|00000000-0000-0000-0000-000000000000",
+        "via_dangling|98924000|54600000|c63b771d-f43f-478c-805f-ff965236590d|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -66,8 +88,8 @@
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
-        "duplicate_footprints": "warning",
-        "extra_footprint": "warning",
+        "duplicate_footprints": "ignore",
+        "extra_footprint": "ignore",
         "footprint": "error",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
@@ -171,7 +193,11 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.25,
+        0.5
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -198,7 +224,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {

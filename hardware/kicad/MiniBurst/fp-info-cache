@@ -1,4 +1,4 @@
-23804100295813905
+23806148103834703
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64651,13 +64651,6 @@ Yellow 5381 Series LED
 0
 2
 2
-MiniBurst
-MiniBurst - Panel
-
-
-0
-0
-0
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -96670,6 +96663,13 @@ Capacitor_Rect_L7.2mm_W2.5mm_P5.00mm
 2
 2
 benjiaomodular
+Header_IDC2x05_NoArrow
+
+
+0
+10
+10
+benjiaomodular
 MountingHole_M3
 
 
@@ -96748,6 +96748,13 @@ Panel_8HP
 0
 benjiaomodular
 Panel_10HP
+
+
+0
+4
+0
+benjiaomodular
+Panel_16HP
 
 
 0

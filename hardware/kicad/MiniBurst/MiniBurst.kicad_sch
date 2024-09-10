@@ -3308,26 +3308,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 52.07) (xy 87.63 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "024cc4c7-3aec-4b67-ba7e-fe68088d87ed")
-	)
-	(wire
-		(pts
-			(xy 85.09 67.31) (xy 87.63 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02e90fb4-b892-46f3-92ea-8a6c4fa9cd84")
-	)
-	(wire
-		(pts
 			(xy 99.06 29.21) (xy 99.06 31.75)
 		)
 		(stroke
@@ -3365,16 +3345,6 @@
 			(type default)
 		)
 		(uuid "0808a9fe-7d83-4998-9864-951a35b788e2")
-	)
-	(wire
-		(pts
-			(xy 85.09 82.55) (xy 87.63 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "080d0185-37ef-4ab3-972b-ee201b7bfe61")
 	)
 	(wire
 		(pts
@@ -3745,16 +3715,6 @@
 			(type default)
 		)
 		(uuid "2db673be-4756-4128-b50d-778936438459")
-	)
-	(wire
-		(pts
-			(xy 85.09 62.23) (xy 87.63 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2dd2bb65-cdca-452f-91fa-30d8d02ab056")
 	)
 	(wire
 		(pts
@@ -4218,16 +4178,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 77.47) (xy 87.63 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7298fbde-2465-48d5-a05f-0630981d592d")
-	)
-	(wire
-		(pts
 			(xy 34.29 26.67) (xy 31.75 26.67)
 		)
 		(stroke
@@ -4578,16 +4528,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 87.63) (xy 87.63 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e94a82c-1e55-4d9f-b61d-aa006131d4db")
-	)
-	(wire
-		(pts
 			(xy 276.86 25.4) (xy 279.4 25.4)
 		)
 		(stroke
@@ -4805,16 +4745,6 @@
 			(type default)
 		)
 		(uuid "bdba433d-853c-452a-9935-a6961bea43e8")
-	)
-	(wire
-		(pts
-			(xy 85.09 72.39) (xy 87.63 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be28e5d3-da03-40f9-8fea-dff1627babac")
 	)
 	(wire
 		(pts
@@ -5128,16 +5058,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 57.15) (xy 87.63 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "efe266a3-60e8-4665-adbe-518ec51c5eb7")
-	)
-	(wire
-		(pts
 			(xy 267.97 129.54) (xy 269.24 129.54)
 		)
 		(stroke
@@ -5317,28 +5237,6 @@
 			)
 		)
 	)
-	(global_label "STEP7"
-		(shape input)
-		(at 85.09 82.55 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0b0504ea-a12e-4794-8c3a-4fffcc8ad743")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.2992 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "STEP5"
 		(shape input)
 		(at 257.81 60.96 180)
@@ -5352,28 +5250,6 @@
 		(uuid "0bfd676d-c76b-4513-ae96-b4d01282ffba")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 249.0192 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "STEP6"
-		(shape input)
-		(at 85.09 77.47 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0ef5acb3-f6d4-4a73-b1f6-a4b381afdbfc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.2992 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5559,28 +5435,6 @@
 			)
 		)
 	)
-	(global_label "STEP3"
-		(shape input)
-		(at 85.09 62.23 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "364283a6-f979-4d1e-ace8-ae4b8ad8104d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.2992 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "RESET"
 		(shape output)
 		(at 130.81 31.75 0)
@@ -5691,28 +5545,6 @@
 			)
 		)
 	)
-	(global_label "STEP8"
-		(shape input)
-		(at 85.09 87.63 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "63e5f5c7-9ddb-40bd-a3f3-17316f556bd1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.2992 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "STEP3"
 		(shape input)
 		(at 236.22 127 0)
@@ -5792,28 +5624,6 @@
 		(uuid "79291fbe-b62c-44f0-96f5-44a231b1251c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 71.1586 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "STEP2"
-		(shape input)
-		(at 85.09 57.15 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7d8e337d-b345-4ca5-8d92-c45f8ea7863b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.2992 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5999,28 +5809,6 @@
 			)
 		)
 	)
-	(global_label "STEP1"
-		(shape input)
-		(at 85.09 52.07 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "be4068da-5db0-44b0-b747-54d4bb6c8911")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.2992 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "VREF"
 		(shape input)
 		(at 123.19 139.7 180)
@@ -6043,28 +5831,6 @@
 			)
 		)
 	)
-	(global_label "STEP5"
-		(shape input)
-		(at 85.09 72.39 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c84523a2-432a-4235-a1af-48fc106192b9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.2992 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "STEP3"
 		(shape input)
 		(at 254 127 180)
@@ -6078,28 +5844,6 @@
 		(uuid "cb0653b1-83f1-42ad-bf99-234bc12053ae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 245.2092 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "STEP4"
-		(shape input)
-		(at 85.09 67.31 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "cb933f68-a73c-464b-8235-c6b2b0a334a2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.2992 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6370,119 +6114,6 @@
 			(project "MiniBurst"
 				(path "/29e33193-9d22-4697-8a87-f62bab5fdea4"
 					(reference "D16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 87.63 82.55 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "09c412ff-6262-430d-86f1-011af7eee58f")
-		(property "Reference" "TP8"
-			(at 92.71 81.2799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 92.71 83.8199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
-			(at 87.63 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.63 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 87.63 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" ""
-			(at 87.63 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg #" ""
-			(at 87.63 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 87.63 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Description" ""
-			(at 87.63 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" ""
-			(at 87.63 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d8c65c04-ec02-48e2-a0f7-edc3298a532b")
-		)
-		(instances
-			(project "MiniBurst"
-				(path "/29e33193-9d22-4697-8a87-f62bab5fdea4"
-					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -7202,119 +6833,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 87.63 67.31 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1ac415eb-9a6c-4ff5-8d7a-011149c1ef58")
-		(property "Reference" "TP5"
-			(at 92.71 66.0399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 92.71 68.5799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
-			(at 87.63 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.63 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 87.63 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" ""
-			(at 87.63 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg #" ""
-			(at 87.63 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 87.63 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Description" ""
-			(at 87.63 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" ""
-			(at 87.63 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "73ddb10b-d680-44e2-8102-189ecbaefb5c")
-		)
-		(instances
-			(project "MiniBurst"
-				(path "/29e33193-9d22-4697-8a87-f62bab5fdea4"
-					(reference "TP5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 273.05 34.29 180)
 		(unit 1)
@@ -7560,7 +7078,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:40106")
-		(at 137.16 87.63 180)
+		(at 138.43 113.03 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7568,7 +7086,7 @@
 		(dnp no)
 		(uuid "217b525e-e57e-4c03-8fe6-7fc33d8e5af6")
 		(property "Reference" "U2"
-			(at 137.16 80.645 0)
+			(at 138.43 120.015 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7576,7 +7094,7 @@
 			)
 		)
 		(property "Value" "40106"
-			(at 137.16 82.55 0)
+			(at 138.43 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7584,7 +7102,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 137.16 87.63 0)
+			(at 138.43 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7593,7 +7111,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf"
-			(at 137.16 87.63 0)
+			(at 138.43 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7602,7 +7120,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 137.16 87.63 0)
+			(at 138.43 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7611,7 +7129,7 @@
 			)
 		)
 		(property "LCSC Part #" ""
-			(at 137.16 87.63 0)
+			(at 138.43 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7620,7 +7138,7 @@
 			)
 		)
 		(property "Mfg #" ""
-			(at 137.16 87.63 0)
+			(at 138.43 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7629,7 +7147,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 137.16 87.63 0)
+			(at 138.43 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7638,7 +7156,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 137.16 87.63 0)
+			(at 138.43 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7647,7 +7165,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 137.16 87.63 0)
+			(at 138.43 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8796,119 +8314,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 87.63 77.47 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3c97ecf6-9b3e-4b52-90b6-cd7e2d2af72c")
-		(property "Reference" "TP7"
-			(at 92.71 76.1999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 92.71 78.7399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
-			(at 87.63 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.63 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 87.63 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" ""
-			(at 87.63 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg #" ""
-			(at 87.63 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 87.63 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Description" ""
-			(at 87.63 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" ""
-			(at 87.63 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3c871453-fab7-4268-a3bb-83584842c5ea")
-		)
-		(instances
-			(project "MiniBurst"
-				(path "/29e33193-9d22-4697-8a87-f62bab5fdea4"
-					(reference "TP7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 186.69 59.69 180)
 		(unit 1)
@@ -9082,232 +8487,6 @@
 			(project ""
 				(path "/29e33193-9d22-4697-8a87-f62bab5fdea4"
 					(reference "#PWR034")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 87.63 52.07 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4afc62d6-d17c-4dd5-84db-d4ffb7638612")
-		(property "Reference" "TP2"
-			(at 92.71 50.7999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 92.71 53.3399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
-			(at 87.63 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.63 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 87.63 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" ""
-			(at 87.63 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg #" ""
-			(at 87.63 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 87.63 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Description" ""
-			(at 87.63 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" ""
-			(at 87.63 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d0a363d1-5dad-4629-a0e1-76b694a50aa9")
-		)
-		(instances
-			(project "MiniBurst"
-				(path "/29e33193-9d22-4697-8a87-f62bab5fdea4"
-					(reference "TP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 87.63 87.63 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4b4962fe-890c-4e99-a38d-642b38d9ebad")
-		(property "Reference" "TP9"
-			(at 92.71 86.3599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 92.71 88.8999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
-			(at 87.63 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.63 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 87.63 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" ""
-			(at 87.63 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg #" ""
-			(at 87.63 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 87.63 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Description" ""
-			(at 87.63 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" ""
-			(at 87.63 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "51b1fa88-d212-4071-8007-a2b11b26868c")
-		)
-		(instances
-			(project "MiniBurst"
-				(path "/29e33193-9d22-4697-8a87-f62bab5fdea4"
-					(reference "TP9")
 					(unit 1)
 				)
 			)
@@ -9539,7 +8718,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:40106")
-		(at 138.43 113.03 0)
+		(at 137.16 87.63 180)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9547,7 +8726,7 @@
 		(dnp no)
 		(uuid "506f724e-a70c-48cb-a15c-a290b2e2ba0e")
 		(property "Reference" "U2"
-			(at 138.43 106.045 0)
+			(at 137.16 94.615 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9555,7 +8734,7 @@
 			)
 		)
 		(property "Value" "40106"
-			(at 138.43 107.95 0)
+			(at 137.16 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9563,7 +8742,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 138.43 113.03 0)
+			(at 137.16 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9572,7 +8751,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf"
-			(at 138.43 113.03 0)
+			(at 137.16 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9581,7 +8760,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 138.43 113.03 0)
+			(at 137.16 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9590,7 +8769,7 @@
 			)
 		)
 		(property "LCSC Part #" ""
-			(at 138.43 113.03 0)
+			(at 137.16 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9599,7 +8778,7 @@
 			)
 		)
 		(property "Mfg #" ""
-			(at 138.43 113.03 0)
+			(at 137.16 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9608,7 +8787,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 138.43 113.03 0)
+			(at 137.16 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9617,7 +8796,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 138.43 113.03 0)
+			(at 137.16 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9626,7 +8805,7 @@
 			)
 		)
 		(property "Type" ""
-			(at 138.43 113.03 0)
+			(at 137.16 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10461,119 +9640,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 87.63 57.15 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "71949cc7-b3b2-4ca8-98db-f7d6b1422837")
-		(property "Reference" "TP3"
-			(at 92.71 55.8799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 92.71 58.4199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
-			(at 87.63 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.63 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 87.63 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" ""
-			(at 87.63 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg #" ""
-			(at 87.63 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 87.63 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Description" ""
-			(at 87.63 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" ""
-			(at 87.63 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ab4b4a11-dc26-4602-a1be-846014e9f8db")
-		)
-		(instances
-			(project "MiniBurst"
-				(path "/29e33193-9d22-4697-8a87-f62bab5fdea4"
-					(reference "TP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "4xxx:40106")
 		(at 35.56 85.09 0)
 		(unit 4)
@@ -10828,119 +9894,6 @@
 			(project "MiniBurst"
 				(path "/29e33193-9d22-4697-8a87-f62bab5fdea4"
 					(reference "R17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 87.63 72.39 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7a179a43-7b81-49ac-9c1d-dd2417a166c6")
-		(property "Reference" "TP6"
-			(at 92.71 71.1199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 92.71 73.6599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
-			(at 87.63 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.63 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 87.63 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" ""
-			(at 87.63 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg #" ""
-			(at 87.63 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 87.63 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Description" ""
-			(at 87.63 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" ""
-			(at 87.63 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dc05528a-1f02-421c-93a2-2da3201cfa51")
-		)
-		(instances
-			(project "MiniBurst"
-				(path "/29e33193-9d22-4697-8a87-f62bab5fdea4"
-					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -11855,119 +10808,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 87.63 62.23 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8c6b702e-db46-4bd1-b516-0bfb612474a9")
-		(property "Reference" "TP4"
-			(at 92.71 60.9599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 92.71 63.4999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
-			(at 87.63 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.63 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 87.63 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" ""
-			(at 87.63 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg #" ""
-			(at 87.63 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 87.63 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Description" ""
-			(at 87.63 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" ""
-			(at 87.63 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "baddc081-ee64-4fad-aaf3-e9b6c31a7a68")
-		)
-		(instances
-			(project "MiniBurst"
-				(path "/29e33193-9d22-4697-8a87-f62bab5fdea4"
-					(reference "TP4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 125.73 31.75 270)
 		(unit 1)
@@ -12755,22 +11595,22 @@
 			)
 		)
 		(pin "5"
-			(uuid "5bf55434-8b94-4912-9999-87fc587c04be")
+			(uuid "5bf55434-8b94-4912-9999-87fc587c04bf")
 		)
 		(pin "4"
-			(uuid "396ec784-eeb5-4db8-b3ff-374860783084")
+			(uuid "396ec784-eeb5-4db8-b3ff-374860783085")
 		)
 		(pin "3"
-			(uuid "dee573db-3313-46bd-ab14-9c9e79b19730")
+			(uuid "dee573db-3313-46bd-ab14-9c9e79b19731")
 		)
 		(pin "6"
-			(uuid "1010e6f2-199c-45be-b7f2-d55c7fdb5624")
+			(uuid "1010e6f2-199c-45be-b7f2-d55c7fdb5625")
 		)
 		(pin "2"
-			(uuid "ec3428c9-2289-420b-b947-02965bf00efe")
+			(uuid "ec3428c9-2289-420b-b947-02965bf00eff")
 		)
 		(pin "1"
-			(uuid "29b47e8a-e95c-45cc-aece-8c518154a19e")
+			(uuid "29b47e8a-e95c-45cc-aece-8c518154a19f")
 		)
 		(instances
 			(project ""

@@ -3972,7 +3972,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical"
+		(property "Footprint" "benjiaomodular:Header_IDC2x05_NoArrow"
 			(at 36.83 66.04 0)
 			(effects
 				(font
