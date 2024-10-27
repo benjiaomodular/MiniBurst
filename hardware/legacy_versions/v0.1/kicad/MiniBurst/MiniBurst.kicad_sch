@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "MiniBurst")
-		(rev "v0.2")
+		(rev "v0.1")
 		(company "benjiaomodular")
 	)
 	(lib_symbols
@@ -6772,7 +6772,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 88.9 110.49 0)
 			(effects
 				(font
@@ -10356,7 +10356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 146.05 20.32 0)
 			(effects
 				(font
@@ -10757,7 +10757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 160.02 53.34 0)
 			(effects
 				(font
@@ -13724,7 +13724,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 77.47 31.75 0)
 			(effects
 				(font
@@ -13864,7 +13864,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 158.75 72.39 0)
 			(effects
 				(font
@@ -15136,7 +15136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 133.35 137.16 0)
 			(effects
 				(font
@@ -16076,7 +16076,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-16W_5.3x10.2mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm"
 			(at 222.25 132.08 0)
 			(effects
 				(font
@@ -16148,7 +16148,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://mou.sr/3BQ06Wp"
+		(property "URL" "https://mou.sr/3zhJZjO"
 			(at 222.25 132.08 0)
 			(effects
 				(font

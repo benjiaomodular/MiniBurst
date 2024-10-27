@@ -3109,7 +3109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_4x3.9"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x4.5"
 			(at 51.7652 73.66 0)
 			(effects
 				(font
@@ -3251,7 +3251,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_4x3.9"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x4.5"
 			(at 51.7652 63.5 0)
 			(effects
 				(font
@@ -3593,7 +3593,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 176.53 64.77 0)
 			(effects
 				(font
@@ -3734,7 +3734,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 151.13 64.77 0)
 			(effects
 				(font
@@ -4382,7 +4382,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 162.56 64.77 0)
 			(effects
 				(font

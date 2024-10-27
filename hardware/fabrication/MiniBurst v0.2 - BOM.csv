@@ -1,0 +1,24 @@
+null,Placed,References,Value,Footprint,URL,Manufacturer,Part #,Quantity
+1,✓,"C5, C6, C7, C8, C9",100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,https://mou.sr/4ekMsbM,,,5
+2,✓,"C3, C4",22uF,CP_Elec_4x3.9,https://mou.sr/4ekMqRc,,,2
+3,✓,C1,10nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,https://mou.sr/47sqUbk,,,1
+4,✓,C2,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,https://mou.sr/4e5fI6P,,,1
+5,✓,"R3, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27",10k,R_0805_2012Metric,https://mou.sr/3MINYsI,,,14
+6,✓,"R2, R4, R5, R6, R8, R10, R12",100k,R_0805_2012Metric,https://mou.sr/4el3qXS,,,7
+7,✓,"R7, R11, R13, R14",1k,R_0805_2012Metric, https://mou.sr/3MKtPCB,,,4
+8,✓,"R1, R9",15k,R_0805_2012Metric,https://mou.sr/47pyvY3,,,2
+9,,"D6, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18",LED,LED_D3.0mm,https://www.taydaelectronics.com/led-3mm-orange.html,,,12
+10,✓,"D1, D2, D3, D4, D5, D7",1N4148,D_SOD-123,https://mou.sr/3XEhTbD,,,6
+11,✓,"U1, U4, U5",LM358,SOIC-8_5.23x5.23mm_P1.27mm,https://mou.sr/4dWmV9p,,,3
+12,✓,U2,40106,SOIC-14_3.9x8.7mm_P1.27mm,https://mou.sr/47m5xIo,,,1
+13,✓,U3,4017,SOIC-16W_5.3x10.2mm_P1.27mm,https://mou.sr/3BQ06Wp,,,1
+14,,SW2,STEPS,RotarySwitch_SR16_POLE1_WAY8,https://www.aliexpress.com/i/32952531277.html,,,1
+15,,SW3,SW_DPDT_x2,Button_KFC7x7,https://www.taydaelectronics.com/push-button-switch-dc-30v-0-1a-dpdt-7x7mm.html,,,1
+16,,RV1,B100k,Potentiometer_RV09,https://www.taydaelectronics.com/tayda-100k-ohm-linear-taper-potentiometer-round-shaft-pcb-9mm-6-35-mm.html,,,1
+17,,J1,TRIG_IN,AudioJack_3.5mm,https://www.taydaelectronics.com/pj-3001f-3-5-mm-mono-phone-jack.html,,,1
+18,,J2,TRIG_OUT,AudioJack_3.5mm,https://www.taydaelectronics.com/pj-3001f-3-5-mm-mono-phone-jack.html,,,1
+19,,J3,EXT_CLK,AudioJack_3.5mm,https://www.taydaelectronics.com/pj-3001f-3-5-mm-mono-phone-jack.html,,,1
+20,,J4,DURATION_OUT,AudioJack_3.5mm,https://www.taydaelectronics.com/pj-3001f-3-5-mm-mono-phone-jack.html,,,1
+21,,J5,END_OUT,AudioJack_3.5mm,https://www.taydaelectronics.com/pj-3001f-3-5-mm-mono-phone-jack.html,,,1
+22,,J6,PULSES_OUT,AudioJack_3.5mm,https://www.taydaelectronics.com/pj-3001f-3-5-mm-mono-phone-jack.html,,,1
+23,✓,J7,Conn_01x10_Pin,Header_IDC2x05_NoArrow,,,,1
